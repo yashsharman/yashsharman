@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TrackFit https://trackfit-life.netlify.app/<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React.js, SEO, Firebase, Google Analytics<br>👨‍💻 All of my projects are available at https://yashsharman.github.io/Portfolio2/<br>📄 Know about my experiences https://drive.google.com/file/d/1QmfySsh5giB4KL_yt00HhcVAk_yGeEGR/view?usp=drive_link<br>📫 How to reach me, yashsharman06@gmail.com<br>⚡ Fun fact I am from a Non-Tech background.
+🔭 I’m currently working on TrackFit https://trackfit-life.netlify.app/<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React.js, SEO, Firebase, Google Analytics<br>👨‍💻 All of my projects are available at https://yashsharman.github.io/Portfolio2/<br>📄 Know about my experiences  https://drive.google.com/drive/folders/13Wueonh90-Ep7-aRZjtFGTIiAt9-1iyp?usp=sharing<br>📫 How to reach me, yashsharman06@gmail.com<br>⚡ Fun fact I am from a Non-Tech background.
 
 
 ## 🌐 Socials:
