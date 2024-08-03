@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TrackFit https://trackfit-life.netlify.app/<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React.js, SEO, Firebase, Google Analytics<br>👨‍💻 All of my projects are available at https://yashsharman.github.io/Portfolio2/<br>📄 Know about my experiences  https://drive.google.com/drive/folders/13Wueonh90-Ep7-aRZjtFGTIiAt9-1iyp?usp=sharing<br>📫 How to reach me, yashsharman06@gmail.com
+🔭 I’m currently working on TrackFit https://trackfit-life.netlify.app/<br>🌱 I’m currently learning Vercel AI integration<br>💬 Ask me about Next.js, React.js, SEO, Firebase, Google Analytics<br>👨‍💻 All of my projects are available at https://yashsharman.github.io/Portfolio2/<br>📄 Know about my experiences  https://drive.google.com/drive/folders/13Wueonh90-Ep7-aRZjtFGTIiAt9-1iyp?usp=sharing<br>📫 How to reach me, yashsharman06@gmail.com
 
 
 ## 🌐 Socials:
